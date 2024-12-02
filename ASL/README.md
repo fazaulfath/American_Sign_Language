@@ -65,18 +65,18 @@ the `estimatedGestures` data will render on your screen.
 
 # References & Libraries
 
-- [Tensorflow JS](https://www.tensorflow.org/js) - A Library for ML in JS.
+- [TensorFlow JS](https://www.tensorflow.org/js) – A powerful library that allows you to run machine learning models directly in the browser with JavaScript, offering great flexibility and speed.
 
-- [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) - A lightweight ML pipeline consisting of two models: A palm detector and a hand-skeleton finger tracking model.
+- [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) – A lightweight machine learning model that detects hand positions and tracks finger movements, enabling efficient gesture recognition.
 
-- [Fingerpose](https://github.com/andypotato/fingerpose) - A pose classifier for hand landmarks detected by TensorFlow.js Handpose's model.
+- [Fingerpose](https://github.com/andypotato/fingerpose) – A pose classifier for interpreting hand landmarks detected by TensorFlow.js Handpose, perfect for recognizing custom gestures.
 
-- Sign language illustration is created by [Pelin Kahraman](https://thenounproject.com/pelodrome/)
+- Sign language illustrations are graciously provided by [Pelin Kahraman](https://thenounproject.com/pelodrome/).
 
-If you want to learn more about Tensorflow JS and custom gesture handpose, please kindly check these amazing videos
+# For those eager to learn more about TensorFlow.js and custom gesture recognition, here are some insightful video resources:
 
-- [Machine Learning with TensorFlow in JavaScript](https://www.youtube.com/watch?v=WIHZ7kjJ35o) - by [Jason Lengstorf](https://github.com/jlengstorf) and [Jason Mayes](https://github.com/jasonmayes)
+- [Machine Learning with TensorFlow in JavaScript](https://www.youtube.com/watch?v=WIHZ7kjJ35o) – A comprehensive introduction to TensorFlow.js, presented by [Jason Lengstorf](https://github.com/jlengstorf) and [Jason Mayes](https://github.com/jasonmayes).
 
-- [Building a Real Time Sign Language Detection App with React.JS and Tensorflow.JS](https://www.youtube.com/watch?v=ZTSRZt04JkY) - by [Nicholas Renotte](https://github.com/nicknochnack)
+- [Building a Real-Time Sign Language Detection App with React.js & TensorFlow.js](https://www.youtube.com/watch?v=ZTSRZt04JkY) – A practical guide to creating a live sign language detection app, shared by [Nicholas Renotte](https://github.com/nicknochnack).
 
 <!-- AUTO-GENERATED-CONTENT:END -->
