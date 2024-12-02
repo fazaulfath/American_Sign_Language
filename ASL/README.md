@@ -12,8 +12,6 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 
 `#dohackathon` `#madewithTFJS`
 
-## [See Demo]()
-
 # Installation
 
 1. **Clone the repository**
