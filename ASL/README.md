@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://handsign-tensorflow.vercel.app">
+  <a href="">
     <img alt="Handsign logo" src="./public/loveyou_emoji.svg" width="80" />
   </a>
 </p>
@@ -12,9 +12,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 
 `#dohackathon` `#madewithTFJS`
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
-
-## [See Demo](https://handsign-tensorflow.vercel.app)
+## [See Demo]()
 
 # Installation
 
@@ -23,7 +21,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 ```shell
 # copy the repo to your machine
 
-git clone https://github.com/fazaulfath/american_sign_language.git
+git clone https://github.com/fazaulfath/American_Sign_Language.git
 ```
 
 2. **Start the project**
