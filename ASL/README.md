@@ -1,16 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="">
-    <img alt="Handsign logo" src="./public/loveyou_emoji.svg" width="80" />
-  </a>
-</p>
 <h1 align="center">
-  Handsign - ASL Hand Gesture Detection Using TensorFlow
+  GestureSpeak - AI-Powered ASL Hand Gesture Detection
 </h1>
 
-Handsign is a simple AI-based hand gesture recognition that translates a hand pose into the American Sign Language (ASL) alphabet. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
+GestureSpeak is an innovative AI-powered application that bridges communication gaps by translating hand poses into the American Sign Language (ASL) alphabet. Powered by TensorFlow.js and its Handpose model, GestureSpeak detects hand movements and interprets them into meaningful gestures. By leveraging the Fingerpose library, it classifies custom hand gestures with precision, making communication more inclusive and accessible.
 
-`#dohackathon` `#madewithTFJS`
+`#ASLRecognition` `#TensorFlowJS` `#AccessibilityInnovation`
 
 # Installation
 
@@ -27,7 +22,7 @@ git clone https://github.com/fazaulfath/American_Sign_Language.git
 ```shell
 # move to the project folder and install all dependencies
 
-cd handsign-tensorflow
+cd ASL
 yarn install
 ```
 
