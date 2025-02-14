@@ -1,5 +1,4 @@
-import React from "react"
-import handImages from "../public/handImages.svg"
+import React from "react";
 import {
   Text,
   Button,
@@ -13,10 +12,10 @@ import {
   ModalCloseButton,
   useDisclosure,
   Link,
-} from "@chakra-ui/react"
+} from "@chakra-ui/react";
 
 export default function About() {
-  const { isOpen, onOpen, onClose } = useDisclosure()
+  const { isOpen, onOpen, onClose } = useDisclosure();
 
   return (
     <div>
@@ -28,15 +27,16 @@ export default function About() {
         <ModalOverlay />
         <ModalContent>
           <ModalHeader>American Sign Language (ASL)</ModalHeader>
-          <ModalCloseButton />
+          {/* <ModalCloseButton /> */}
           <ModalBody>
             <Text fontSize="sm">
               American Sign Language (ASL) is a visual language that serves as
-              the predominant sign language of Deaf communities in the United
-              States and most of Canada.<br></br>
-              Here's the list of ASL hand gestures for alphabet.
+              the predominant sign language of Deaf communities.
+              <br />
+              Here's the list of ASL hand gestures for the alphabet.
             </Text>
-            <Image src={handImages} />
+            {/* Reference the image by its URL */}
+            <Image src="/handImages.svg" alt="ASL Hand Gestures" />
             <Text fontSize="sm">
               This sign language illustration is created by{" "}
               <Link
@@ -54,5 +54,5 @@ export default function About() {
         </ModalContent>
       </Modal>
     </div>
-  )
+  );
 }
